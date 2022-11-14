@@ -7,7 +7,7 @@ En esta primera escena, se introduce al jugador al mundo donde habitan estas cri
 
 Empleando el lenguaje de programación Processing, el cual está basado en Java, se ha empleado multitud de vídeos, imágenes (algunas generadas con una inteligencia artificial), sonidos y canciones para tratar de crear algo similar al "Welcome to the world of Pokémon".
 
-El programa destaca por su simpleza, y dado que no llega ni de asomo a la extensión de un videojuego de Pokémon, ha sido denominado: "Cutré-Mon".
+El programa destaca por su simpleza, y dado que no llega ni por asomo a la extensión de un videojuego de Pokémon, ha sido denominado: "Cutré-Mon".
 
 Aunque existan métodos más eficaces para la creación de un programa de este estilo, he optado por una gran simpleza (aunque conlleve una gran extensión),
 para que resulte fácil de entender aún si se está recién comenzando en el mundillo de la programación.
