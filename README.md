@@ -20,9 +20,9 @@ para que resulte fácil de entender aún si se está recién comenzando en el mu
 -  Una vez abierto el IDE, abrir el archivo "cutremon.pde". (tras haber extraído el archivo comprimido "cutremon.zip")
 
 -  Instalar las librerías necesarias:   
-					· JavaFX (renderizador empleado como alternativa al usado por defecto, ya que el proyecto exigía un mejor rendimiento).
-					· Processing Video.
-					· Minim (empleado para el sonido).
+   - JavaFX (renderizador empleado como alternativa al usado por defecto, ya que el proyecto exigía un mejor rendimiento).
+   - Processing Video.
+   - Minim (empleado para el sonido).
 
 -  Hacer click en el símbolo de Play. (arriba a la izquierda).
 
